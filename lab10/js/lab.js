@@ -13,11 +13,11 @@ function nameSort(str) {
   // Event listener for button
   document.getElementById("my-button").addEventListener("click", function(event){
     // Prevents from submitting
-    event.preventDefault(); 
+  event.preventDefault(); 
     // gets username
-    var input = document.getElementById("user-name").value; 
+  var input = document.getElementById("user-name").value; 
     // Sorts user input with nameSort function
-    var output = nameSort(input); 
+  var output = nameSort(input); 
     // Updates text in results section
-    document.getElementById("output").innerHTML = output; 
+  document.getElementById("output").innerHTML = output; 
   });
