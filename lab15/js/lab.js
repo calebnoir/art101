@@ -11,6 +11,7 @@ function getCatStuff() {
         // Whether this is a POST or GET request
         type: "GET",
         data: {},
+        dataType:  "json",
         // The type of data we expect back
     })
 
