@@ -1,6 +1,6 @@
-// Comment block here
-// Author:
-// Date:
+// Lab 16
+// Author: Caleb Black
+// Date: 6/6/23
 
 
 var URL = "https://xkcd.com/info.0.json";
