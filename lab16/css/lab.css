@@ -1,0 +1,15 @@
+/* CSS styles for Lab 16: JSON and APIs (XKCD comic!) */
+
+/* style.css */
+
+main img {
+    width: inherit !important;
+    max-width: 100%;
+  }
+  
+  #output {
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+  }
+  
